@@ -1,8 +1,11 @@
 # freja-netrepl
 example of using freja to connect to netrepl server
 
-# dependencies
+# demo
 
+https://www.youtube.com/watch?v=rl8f16r_8po
+
+# dependencies
 
 [freja](https://github.com/saikyun/freja)
 
