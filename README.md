@@ -3,7 +3,7 @@ example of using freja to connect to netrepl server
 
 # demo
 
-https://www.youtube.com/watch?v=rl8f16r_8po
+[REPL another Janet process using Freja (23s)](https://www.youtube.com/watch?v=rl8f16r_8po)
 
 # dependencies
 
